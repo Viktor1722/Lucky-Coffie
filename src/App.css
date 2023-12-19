@@ -1,0 +1,17 @@
+body {
+  background-image: url(../public/image_processing20200506-13811-1pcwyw2\ 1.svg);
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.title, .fortune-display {
+  color: #ffff;
+}   
