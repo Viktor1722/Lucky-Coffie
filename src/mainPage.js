@@ -27,9 +27,9 @@ function MainPage () {
         <Container className="container">
         <h1 className="title"> Kъсметче с кафето </h1>
         <br/><br/>
-        <p aria-placeholder="И твоят късмет е...." className="fortune-display">{fortune}</p>
+        <h3><p aria-placeholder="И твоят късмет е...." className="fortune-display">{fortune}</p></h3>
         <br/><br/>
-        <Button sx={{backgroundColor: "#ffff" ,color: "#000000", borderRadius: "210px"}} disableElevation={true} className="form-submit-button" variant="contained">цъкни за да разбереш </Button>
+        <Button sx={{backgroundColor: "#ffff" ,color: "#000000", borderRadius: "210px"}} disableElevation={true} className="form-submit-button" variant="contained">Към книгата с отзиви</Button>
 
     </Container>
     )
