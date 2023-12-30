@@ -1,0 +1,22 @@
+.review-summary {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .rating {
+    font-size: 24px;
+    color: #f39c12; /* Google's review yellow color */
+  }
+  
+  .summary-text {
+    margin-top: 10px;
+  }
+  
+  .author {
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+  }

@@ -38,10 +38,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 3px;
+  padding: 5px;
 }
 
 .links-box, a{
   display: flex;
-  margin: 10px;
+  margin: 5px;
 }
